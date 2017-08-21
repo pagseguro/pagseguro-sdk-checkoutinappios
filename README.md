@@ -55,6 +55,12 @@ A equipe do PagSeguro dará todo o suporte para sua integração do Checkout in 
 
 * **
 
+**Download**
+
+[Faça o download do projeto](http://download.uol.com.br/pagseguro/lib/pagseguro-ios-sdk-checkout-in-app.zip)
+
+* **
+
 **Instalação**
 
 [Saiba como integrar seu aplicativo iOS utilizando o Checkout in App](https://dev.pagseguro.uol.com.br/documentacao/pagamento-online/aplicativo-pagseguro/checkout-in-app/checkout-in-app-iOS)
