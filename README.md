@@ -5,7 +5,9 @@
 **Biblioteca iOS PagSeguro UOL - Checkout in App Manual de Uso**
  
 * **
-**Histórico de Versões**    
+**Histórico de Versões**   
+
+- 0.0.2 : **Atualização de segurança do SDK**  - 23/10/2018
 
 - 0.0.1 : **Atualização do SDK**  - 18/08/2017
 
